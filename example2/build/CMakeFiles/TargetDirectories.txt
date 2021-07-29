@@ -1,0 +1,3 @@
+/home/lecor/cmake_project/example2/build/CMakeFiles/rebuild_cache.dir
+/home/lecor/cmake_project/example2/build/CMakeFiles/version.dir
+/home/lecor/cmake_project/example2/build/CMakeFiles/edit_cache.dir
